@@ -1,0 +1,3 @@
+- Article Template #template
+	- **Tags:**
+	- **Related

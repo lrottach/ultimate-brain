@@ -1,4 +1,4 @@
-- Article Template #template
+- Article Template
 	- **Tags:**
 	- **Related Tools:**
 	- **Topics:**

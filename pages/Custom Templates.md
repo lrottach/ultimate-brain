@@ -1,4 +1,4 @@
-- Article Template
+- Article Template #card
 	- **Tags:**
 	- **Related Tools:**
 	- **Topics:**
